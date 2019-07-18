@@ -1,7 +1,7 @@
 import React from "react";
-import RoundButton from "./roundButton";
-import InputText from "./inputText";
-import Label from "./label";
+import RoundButton from "../roundButton/roundButton";
+import InputText from "../ipnutText/inputText";
+import Label from "../label/label";
 import "./counter.css";
 
 class Counter extends React.Component {
